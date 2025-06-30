@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wahid Faisal
+# Hi, I'm Wahid Faisal
 
 🚀 **AI-Powered Full-Stack Web Developer | Machine Learning & Agentic Systems Enthusiast**  
 🌐 **MERN Stack | Django | LangGraph | LangChain | Deep Learning**
